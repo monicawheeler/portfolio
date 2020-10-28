@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio - very much a WIP
 
 The purpose of this repo is to build my personal website. 
 
